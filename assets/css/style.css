@@ -1,0 +1,30 @@
+
+.img-logo{
+width: 50px;
+height: 50px;
+}
+
+body, .quienes-somos{
+background-color: black;
+}
+
+h5 {
+    background-color: black;
+}
+
+.fas {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+.card-inf{
+    background-color: black;
+}
+.iconos{
+    display: inline-block;
+    color: white;
+    box-sizing: border-box;
+}
+.row{
+    display: inline-block;
+}
